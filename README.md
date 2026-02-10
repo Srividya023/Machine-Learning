@@ -2,17 +2,7 @@
 
 Learn how to monitor ML systems to identify and address sources of drift before model performance decay.
 
-<div align="left">
-    <a target="_blank" href="https://madewithml.com"><img src="https://img.shields.io/badge/Subscribe-40K-brightgreen"></a>&nbsp;
-    <a target="_blank" href="https://github.com/GokuMohandas/Made-With-ML"><img src="https://img.shields.io/github/stars/GokuMohandas/Made-With-ML.svg?style=social&label=Star"></a>&nbsp;
-    <a target="_blank" href="https://www.linkedin.com/in/goku"><img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social"></a>&nbsp;
-    <a target="_blank" href="https://twitter.com/GokuMohandas"><img src="https://img.shields.io/twitter/follow/GokuMohandas.svg?label=Follow&style=social"></a>
-    <br>
-</div>
 
-<br>
-
-👉 &nbsp;This repository contains the [interactive notebook](https://colab.research.google.com/github/GokuMohandas/monitoring-ml/blob/main/monitoring.ipynb) that complements the [monitoring lesson](https://madewithml.com/courses/mlops/monitoring/), which is a part of the [MLOps course](https://github.com/GokuMohandas/mlops-course). If you haven't already, be sure to check out the [lesson](https://madewithml.com/courses/mlops/monitoring/) because all the concepts are covered extensively and tied to software engineering best practices for building ML systems.
 
 
 
