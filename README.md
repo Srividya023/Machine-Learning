@@ -117,15 +117,7 @@ import json
 import pandas as pd
 from urllib.request import urlopen
 ```
-```python
-# Load labeled projects
-projects = pd.read_csv("https://raw.githubusercontent.com/GokuMohandas/Made-With-ML/main/datasets/projects.csv")
-tags = pd.read_csv("https://raw.githubusercontent.com/GokuMohandas/Made-With-ML/main/datasets/tags.csv")
-df = ge.dataset.PandasDataset(pd.merge(projects, tags, on="id"))
-df["text"] = df.title + " " + df.description
-df.drop(["title", "description"], axis=1, inplace=True)
-df.head(5)
-```
+
 
 <div class="output_subarea output_html rendered_html output_result" dir="auto"><div>
 <table border="1" class="dataframe">
