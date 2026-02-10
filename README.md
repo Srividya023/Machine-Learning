@@ -14,25 +14,7 @@ Learn how to monitor ML systems to identify and address sources of drift before 
 
 👉 &nbsp;This repository contains the [interactive notebook](https://colab.research.google.com/github/GokuMohandas/monitoring-ml/blob/main/monitoring.ipynb) that complements the [monitoring lesson](https://madewithml.com/courses/mlops/monitoring/), which is a part of the [MLOps course](https://github.com/GokuMohandas/mlops-course). If you haven't already, be sure to check out the [lesson](https://madewithml.com/courses/mlops/monitoring/) because all the concepts are covered extensively and tied to software engineering best practices for building ML systems.
 
-<div align="left">
-<a target="_blank" href="https://madewithml.com/courses/mlops/monitoring/"><img src="https://img.shields.io/badge/📖 Read-lesson-9cf"></a>&nbsp;
-<a href="https://github.com/GokuMohandas/monitoring-ml/blob/main/monitoring.ipynb" role="button"><img src="https://img.shields.io/static/v1?label=&amp;message=View%20On%20GitHub&amp;color=586069&amp;logo=github&amp;labelColor=2f363d"></a>&nbsp;
-<a href="https://colab.research.google.com/github/GokuMohandas/monitoring-ml/blob/main/monitoring.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
-</div>
 
-<br>
-
-- [Performance](#performance)
-- [Drift](#drift)
-    - [Data drift](#data-drift)
-    - [Target drift](#target-drift)
-    - [Concept drift](#concept-drift)
-- [Locating drift](#locating-drift)
-- [Measuring drift](#measuring-drift)
-    - [Expectations](#expectations)
-    - [Univariate](#univariate)
-    - [Multivariate](#multivariate)
-- [Online](#online)
 
 ## Performance
 
